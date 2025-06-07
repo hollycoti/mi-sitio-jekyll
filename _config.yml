@@ -1,9 +1,9 @@
 title: Mi Sitio Jekyll
 description: Ejemplo práctico de Jekyll
-author: Tu Nombre
-email: tunombre@example.com
+author: acebo
+email: acebo@example.com
 baseurl: "" 
-url: "https://tuusuario.github.io"
+url: "https://acebo.github.io"
 
 collections:
   proyectos:
